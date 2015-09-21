@@ -15,19 +15,10 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["cfp.rst"]) $ do
+    match (fromList ["index.rst", "cfp.rst", "contact.rst"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
-
-    match "index.html" $ do
-        route idRoute
-        compile $ do
-            let indexCtx = defaultContext
-            getResourceBody
-                >>= applyAsTemplate indexCtx
-                >>= loadAndApplyTemplate "templates/default.html" indexCtx
-                >>= relativizeUrls
 
     match "templates/*" $ compile templateCompiler

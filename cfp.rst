@@ -1,82 +1,29 @@
-About the FP Miniconf
-=====================
+Call for Papers
+===============
 
-The linux.conf.au 2016 Functional Programming (FP) Miniconf will
-provide the opportunity for FP practitioners and people interested
-in FP to learn the concepts, tools and techniques of FP in a
-supportive environment, to be challenged in their thinking about
-programming and the tools of the craft, and to be inspired to
-embrace the advantages of FP in their workplaces and open source
-projects and communities.
+The inaugural Functional Programming Miniconf is being held during
+`linux.conf.au 2016`_, the week of 1st - 5th February 2016 in
+`Geelong, Victoria`_.
 
-`*Functional programming*`_ is an approach to programming that
-models computation as the evaluation of mathematical functions.
-Drawing from fields of mathematics including `lambda calculus`_ and
-`category theory`_, FP emphasises `*purity*`_, `*immutability*`_,
-`*abstraction*`_ and `*composability*`_ - qualities that underpin
-FP's reputation of succinctness, comprehensibility and the ability
-to move fast and *not* break things.
+This one-day miniconf is for FP beginners and practitioners alike.
+Attendees will learn FP concepts, tools and techniques and be
+challenged to think about programming in new ways and embrace the
+benefits of FP in their workplaces and open source communities.
 
-.. _*Functional programming*: https://en.wikipedia.org/wiki/Functional_programming
-.. _lambda calculus: https://en.wikipedia.org/wiki/Lambda_calculus
-.. _category theory: https://en.wikipedia.org/wiki/Category_theory
-.. _*purity*: https://en.wikipedia.org/wiki/Pure_function
-.. _*immutability*: https://en.wikipedia.org/wiki/Immutable_object
-.. _*abstraction*: https://en.wikipedia.org/wiki/Abstraction_%28computer_science%29
-.. _*composability*: https://en.wikipedia.org/wiki/Principle_of_compositionality
+.. _linux.conf.au 2016: https://linux.conf.au/
+.. _Geelong, Victoria: https://linux.conf.au/about/geelong
 
-
-A little background
--------------------
-
-In recent years awareness and use of functional programming has
-grown with the emergence of new languages (e.g. Scala, Clojure,
-Idris), ongoing advancement of older functional programming
-languages (e.g. OCaml, Haskell) and other languages adopting
-features to better facilitate functional programming (e.g. Java 8,
-C# 3.0).
-
-Some popular open source functional programming languages
-include:
-
-- Haskell_: pure, lazy, statically typed
-- Scala_: statically typed functional language for the JVM 
-- Clojure_: JVM Lisp dialect with powerful concurrency primitives
-- Erlang_: dynamically typed with focus on fault tolerance and 
-  real-time applications
-- `F#`_: statically typed FP for Common Language Infrastructure
-
-.. _Haskell: https://www.haskell.org/
-.. _Scala: http://www.scala-lang.org/
-.. _Clojure: http://clojure.org/
-.. _Erlang: http://www.erlang.org/
-.. _F#: https://fsharp.org/
-
-Some well-known open source programs written in functional
-programming languages include:
-
-- xmonad_ (window manager; Haskell)
-- git-annex_ (Git-based archiving tool; Haskell)
-- CouchDB_ and Riak_ (databases; Erlang)
-- Pandoc_ (universal document converter; Haskell)
-- Lichess_ (Internet chess server; Scala)
-
-.. _xmonad: http://xmonad.org/
-.. _git-annex: http://git-annex.branchable.com/
-.. _CouchDB: https://couchdb.apache.org/
-.. _Riak: https://github.com/basho/riak
-.. _Pandoc: http://pandoc.org/
-.. _Lichess: http://lichess.org/
+If you have something interesting to share about FP, read on!
 
 
 What are we looking for?
 ------------------------
 
 We are looking for talks that will interest FP newcomers and
-experienced practitioners alike.  Accordingly, we are unlikely to
-accept proposals that assume significant prior knowledge of FP,
-category theory, etc.  As with the conference proper, all talks must
-relate in some way to free/open source software.
+experienced practitioners alike.  linux.conf.au attendees have
+diverse programming and computing experience; accordingly we are
+unlikely to accept proposals that assume significant prior knowledge
+of FP, category theory, etc.
 
 In particular, we welcome proposals that:
 
@@ -96,12 +43,25 @@ In particular, we welcome proposals that:
 
 - Educate attendees on how to learn or teach FP effectively.
 
+As with the conference proper, *all talks must relate to free/open
+source software* in some way.
+
+First-time speakers are encouraged to apply!  If you would like help
+fleshing out an abstract or have any questions feel free to
+`contact the organisers`_.
+
+.. _contact the organisers: contact.html
+
 
 How to submit
 -------------
 
-Email proposals to ``frase@frase.id.au``.  The standard talk
-duration is 30 minutes *including time for questions*.
+Email proposals to ``frase@frase.id.au``.
+
+The submission deadline is **Monday 9th November**.
+
+The standard talk duration is 30 minutes *including time for
+questions*.
 
 Include the following in your proposal:
 
@@ -117,10 +77,10 @@ using ReStructured Text or Markdown.
 
 Please note the following important points:
 
-- Speakers at the miniconf must `register for the main conference`_.
+- Speakers at the miniconf **must** `register for the main conference`_.
 - The FP Miniconf organisers are unable to provide financial
   assistance for travel or registration.
-- All speakers and attendees are subject to the linux.conf.au `Code
+- All speakers and attendees must abide by the linux.conf.au `Code
   of Conduct`_.
 
 .. _register for the main conference: https://linux.conf.au/
