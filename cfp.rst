@@ -25,23 +25,22 @@ diverse programming and computing experience; accordingly we are
 unlikely to accept proposals that assume significant prior knowledge
 of FP, category theory, etc.
 
-In particular, we welcome proposals that:
+Here are some possible topic areas, to get the ideas flowing:
 
-- Teach FP concepts or techniques that are applicable in a variety
-  of languages, including languages not normally considered
-  "functional".
+- Teach an FP concept that can be applied in a variety of langauges,
+  including those not normally considered "functional".
 
-- Blow minds with emerging tools or techniques, and introduce the
-  underlying theory.
+- Demonstrate an emerging programming tool or technique such as
+  hole-driven development or proof search.
 
-- Clearly convey the benefits of FP for writing correct,
-  maintainable and high performance software.
+- Share your experience of learning or teaching FP, starting a
+  meetup, or adopting FP in your workplace.
 
-- Demonstrate awesome open source programs or libraries written in a
-  functional programming language and expound important aspects of
-  their implementation.
+- Explain the benefits of FP for writing correct, maintainable and
+  high performance software.
 
-- Educate attendees on how to learn or teach FP effectively.
+- Show how FP is used to build some awesome and/or well known free
+  software program.
 
 As with the conference proper, *all talks must relate to free/open
 source software* in some way.
