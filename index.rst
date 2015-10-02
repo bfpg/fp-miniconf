@@ -82,6 +82,7 @@ programming languages include:
 - CouchDB_ and Riak_ (databases; Erlang)
 - Pandoc_ (universal document converter; Haskell)
 - Lichess_ (Internet chess server; Scala)
+- MirageOS_ (Unikernel toolkit; OCaml)
 
 .. _xmonad: http://xmonad.org/
 .. _git-annex: http://git-annex.branchable.com/
@@ -89,3 +90,4 @@ programming languages include:
 .. _Riak: https://github.com/basho/riak
 .. _Pandoc: http://pandoc.org/
 .. _Lichess: http://lichess.org/
+.. _MirageOS: https://mirage.io
