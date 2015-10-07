@@ -29,7 +29,7 @@ Important dates
 - Deadline for proposals: **November 9th**
 - Speaker notification: **December 7th**
 - Final programme announcement: **January 11th**
-- **FP Miniconf**: Monday February 1st or Tuesday February 2nd
+- **FP Miniconf: Tuesday February 2nd**
 
 
 About FP
