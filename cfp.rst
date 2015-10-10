@@ -76,11 +76,14 @@ using ReStructured Text or Markdown.
 
 Please note the following important points:
 
-- Speakers at the miniconf **must** `register for the main conference`_.
+- Speakers at the miniconf **must** register for the conference.
+  Miniconf-only registration is available from $90.  Student,
+  hobbyist and professional rates are available for the full
+  conference. See the `Registration Information`_ page for details.
 - The FP Miniconf organisers are unable to provide financial
   assistance for travel or registration.
 - All speakers and attendees must abide by the linux.conf.au `Code
   of Conduct`_.
 
-.. _register for the main conference: https://linux.conf.au/
+.. _Registration Information: https://linux.conf.au/register/info
 .. _Code of Conduct: https://linux.conf.au/register/code_of_conduct

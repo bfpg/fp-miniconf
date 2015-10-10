@@ -23,6 +23,17 @@ or teaching FP - **`submit a proposal`_** to share the goodness!
 .. _submit a proposal: cfp.html
 
 
+Registration
+============
+
+Conference registration is required to attend the miniconf.
+Miniconf-only registration is available **from $90**.  Student,
+hobbyist and professional rates are available for the full
+conference. See the `Registration Information`_ page for details.
+
+.. _Registration Information: https://linux.conf.au/register/info
+
+
 Important dates
 ===============
 
