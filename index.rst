@@ -95,6 +95,7 @@ programming languages include:
 - Lichess_ (Internet chess server; Scala)
 - MirageOS_ (Unikernel toolkit; OCaml)
 - ejabberd_ (XMPP server; Erlang)
+- puppet_ (configuration management; Clojure)
 
 .. _xmonad: http://xmonad.org/
 .. _git-annex: http://git-annex.branchable.com/
@@ -104,3 +105,4 @@ programming languages include:
 .. _Lichess: http://lichess.org/
 .. _MirageOS: https://mirage.io
 .. _ejabberd: https://www.ejabberd.im/
+.. _puppet: https://www.puppetlabs.com
