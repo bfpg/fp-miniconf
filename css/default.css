@@ -54,3 +54,16 @@ div.info {
     font-size: 14px;
     font-style: italic;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    border-bottom: 1px solid lightgrey;
+}
+
+th {
+    border-top: 1px solid lightgrey;
+}
